@@ -1,0 +1,9 @@
+{
+  "name": "netnewtst_09",
+  "version": "1.0.0",
+  "description": "Baseline for SCA-26330 net-new validation. Vuln added by PR.",
+  "private": true,
+  "dependencies": {
+    "lodash": "4.17.21"
+  }
+}
