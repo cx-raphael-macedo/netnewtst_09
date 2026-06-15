@@ -4,6 +4,7 @@
   "description": "Baseline for SCA-26330 net-new validation. Vuln added by PR.",
   "private": true,
   "dependencies": {
-    "lodash": "4.17.21"
+    "lodash": "4.17.21",
+    "axios": "0.21.1"
   }
 }
